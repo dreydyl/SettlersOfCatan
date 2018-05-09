@@ -10,7 +10,7 @@ public class Hex {
 	private int[] xPoints;
 	private int[] yPoints;
 	private int width;
-	private int height;
+	private int height; //cow
 
 	public Hex(Resource r, int x, int y, int w) {
 		type = r;
